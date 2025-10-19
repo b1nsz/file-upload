@@ -1,0 +1,17 @@
+2025-10-19 22:39:28,753 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-10-19 22:39:28,755 [INFO] [33mPress CTRL+C to quit[0m
+2025-10-19 22:39:28,759 [INFO]  * Restarting with stat
+2025-10-19 22:39:29,594 [WARNING]  * Debugger is active!
+2025-10-19 22:39:29,603 [INFO]  * Debugger PIN: 856-154-652
+2025-10-19 22:40:58,654 [INFO] File saved: uploads/dff289d80b884376930c3b830d1f35c2\136890046ad448109786851cb512836a_174836.png
+2025-10-19 22:40:58,662 [INFO] 127.0.0.1 - - [19/Oct/2025 22:40:58] "[35m[1mPOST /upload HTTP/1.1[0m" 201 -
+2025-10-19 22:41:22,007 [INFO] 127.0.0.1 - - [19/Oct/2025 22:41:22] "GET /file/1 HTTP/1.1" 200 -
+2025-10-19 22:41:39,067 [INFO] File updated: uploads\70edd663a3bc44f397e74a6c8e0bb250_174836.png
+2025-10-19 22:41:39,070 [INFO] 127.0.0.1 - - [19/Oct/2025 22:41:39] "PUT /file/1 HTTP/1.1" 200 -
+2025-10-19 22:41:48,250 [INFO] File deleted: uploads\70edd663a3bc44f397e74a6c8e0bb250_174836.png
+2025-10-19 22:41:48,251 [INFO] 127.0.0.1 - - [19/Oct/2025 22:41:48] "DELETE /file/1 HTTP/1.1" 200 -
+2025-10-19 22:49:57,691 [INFO]  * Detected change in 'C:\\Users\\Admin\\source\\repos\\flask_file_upload_mvc\\app.py', reloading
+2025-10-19 22:49:57,905 [INFO]  * Restarting with stat
+2025-10-19 22:50:00,131 [WARNING]  * Debugger is active!
+2025-10-19 22:50:00,138 [INFO]  * Debugger PIN: 856-154-652
